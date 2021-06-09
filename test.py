@@ -1,4 +1,5 @@
 import hc256
+import logging
 
 
 def main():
