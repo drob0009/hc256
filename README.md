@@ -1,5 +1,6 @@
 # hc256
-Python implementation of HC256 cipher. Not cryptographically secure, do not use where actual cryptographically secure implementation is needed.
+Python implementation of HC256 cipher. 
+**Not cryptographically secure.**
 
 Sample usage:
 ```
