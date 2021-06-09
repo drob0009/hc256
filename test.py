@@ -1,5 +1,6 @@
 import hc256
 
+
 def main():
     test_hc256()
 
